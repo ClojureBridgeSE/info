@@ -2,6 +2,27 @@
 
 This page is here to help you with the next steps.
 
+## Learning
+
+Two of our wonderful sponsors, [PurelyFunctional.tv](https://purelyfunctional.tv/) and [Lambda Island](https://lambdaisland.com/), have provided a one year free membership to all ClojureBridge Stockholm participants and coaches!
+
+To sign up:
+
+### PurelyFunctional.tv
+1. [Open this link](https://purelyfunctional.tv/register/) in your web browser
+2. Scroll down to the **Register New Account** section
+3. Enter your details, pick a password, and then select **Yearly Membership** (don't worry, it won't cost you anything)
+4. Enter `cbstockholm2017` in the **Discount Code** area, and click **Apply**
+
+Your total should go to $0.00. :)
+
+### Lambda Island
+
+[Open this link](https://lambdaisland.com/workshop/clojurebridge-stockholm) in your browser, pick a username and password, and click on **Start Free Trial**
+
+### Clojure for the Brave and True
+Daniel Higginbotham didn't sponsor ClojureBridge Stockholm, he did one better by sponsoring all people who want to learn Clojure anywhere! Just visit [http://www.braveclojure.com/](http://www.braveclojure.com/), and you can read his wonderful book for free.
+
 ## Facebook groups
 * [Geek Girl Meetup Sweden](https://www.facebook.com/groups/ggmsweden/?ref=group_browse_new)
 * [Geek Girl Meetup](https://www.facebook.com/geekgirlmeetup/?fref=ts)
