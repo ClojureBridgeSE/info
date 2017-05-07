@@ -20,7 +20,7 @@ Join our Slack team by going to [http://clojurians.net/](http://clojurians.net/)
 Two of our wonderful sponsors, [PurelyFunctional.tv](https://purelyfunctional.tv/) and [Lambda Island](https://lambdaisland.com/), have provided a one year free membership to all ClojureBridge Stockholm participants and coaches!
 
 * [PurelyFunctional.tv](https://purelyfunctional.tv/register/) - use the discount code we emailed to participants (contact us at ClojureBridgeSE@gmail.com if you can't find the code)
-* [Lambda Island](https://lambdaisland.com/) - use the link we emailed to participants (contact us at ClojureBridgeSE@gmail.com if you can't find the link) 
+* [Lambda Island](https://lambdaisland.com/) - use the link we emailed to participants (contact us at ClojureBridgeSE@gmail.com if you can't find the link)
 
 ### Clojure for the Brave and True
 Daniel Higginbotham didn't sponsor ClojureBridge Stockholm, he did one better by sponsoring all people who want to learn Clojure anywhere! Just visit [http://www.braveclojure.com/](http://www.braveclojure.com/), and you can read his wonderful book for free.
@@ -54,6 +54,6 @@ Daniel Higginbotham didn't sponsor ClojureBridge Stockholm, he did one better by
 * [Duchess-Sweden](https://www.meetup.com/Duchess-Sweden/)
 * [PyLadiesStockholm](https://www.meetup.com/PyLadiesStockholm/)
 
-##Similar initiatives
-* [Rails Girls] (http://railsgirls.com/)
-* [Women Who Go] (http://www.womenwhogo.org/)
+## Similar initiatives
+* [Rails Girls](http://railsgirls.com/)
+* [Women Who Go](http://www.womenwhogo.org/)
