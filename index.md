@@ -6,6 +6,10 @@ Now that you've gotten a taste of Clojure and programming, we hope you're eager 
 
 Visit [ClojureBridge-Sthlm](https://www.meetup.com/ClojureBridge-Sthlm/) on Meetup.com and click the **Join us** button.
 
+## Talk to us on Slack
+
+Join our Slack team by going to [http://clojurians.net/](http://clojurians.net/) and entering your email to get an invite. Once you're on, pop by the [#clojurebridge-sthlm](https://clojurians.slack.com/messages/C4PQ3FQEN/) channel and say hi!
+
 ## Resources from the workshop
 * Our slides: [clojurebridge-slides.pdf](clojurebridge-slides.pdf)
 * [ClojureBridge curriculum slides](http://clojurebridge.github.io/curriculum/#/) - interactive slides which cover the same material we did, plus a bit more
@@ -25,6 +29,10 @@ Daniel Higginbotham didn't sponsor ClojureBridge Stockholm, he did one better by
 * [Clojure Koans](http://clojurekoans.com/) - a very addictive way to learn. You add a tiny piece of missing code to make a test pass, then move onto the next.
 * [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas) - a kata is a short exercise that helps you practise coding (just like a kata in martial arts, but with less kicking).
 * [Exercism](http://exercism.io/languages/clojure/about) - slightly longer exercises with a social twist.
+# [HackerRank](https://www.hackerrank.com/challenges/solve-me-first) - challenges to help you start coding in your favorite languages!
+# [Codewars](https://www.codewars.com/?language=clojure) -  where developers achieve code mastery through challenge.
+# [CodeAcademy](https://www.codecademy.com/learn/all) - check out the courses on the command line and Github.
+# [Code School](https://www.codeschool.com/courses/try-git) - a free course on the basics of git.
 
 ### Books
 * [Clojure for the Brave and True](http://www.braveclojure.com/) - free!
