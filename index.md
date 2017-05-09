@@ -15,8 +15,14 @@ Join our Slack team by going to [http://clojurians.net/](http://clojurians.net/)
 * [ClojureBridge curriculum slides](http://clojurebridge.github.io/curriculum/#/) - interactive slides which cover the same material we did, plus a bit more
 * Exercises: [clojurebridge-exercises.pdf](clojurebridge-exercises.pdf)
 
-## Learning
+## Workshop Presentations
+* [6th May 2017](20170506.md)
 
+## Clojure Documentation
+* [Clojure Docs](https://clojuredocs.org)
+* [Input/Output related](http://clojure.java.io/)
+
+## Learning
 Two of our wonderful sponsors, [PurelyFunctional.tv](https://purelyfunctional.tv/) and [Lambda Island](https://lambdaisland.com/), have provided a one year free membership to all ClojureBridge Stockholm participants and coaches!
 
 * [PurelyFunctional.tv](https://purelyfunctional.tv/register/) - use the discount code we emailed to participants (contact us at ClojureBridgeSE@gmail.com if you can't find the code)
